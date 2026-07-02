@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/en:/",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/en/:/en/",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/fr/:/fr/",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/fr:/fr",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/es/:/es/",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/es:/es",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/ja/:/ja/",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/ja:/ja",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/de/:/de/",
+    "/content/khermand/6a466c25a43288b92c62b11f/language-masters/de:/de",
+    "/content/khermand/6a466c25a43288b92c62b11f/configuration:/.helix/config.json",
+    "/content/khermand/6a466c25a43288b92c62b11f/metadata:/metadata.json",
+    "/content/khermand/6a466c25a43288b92c62b11f/redirects:/redirects.json",
+    "/content/khermand/6a466c25a43288b92c62b11f/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/khermand/6a466c25a43288b92c62b11f/",
+    "/content/dam/khermand/6a466c25a43288b92c62b11f/"
   ]
 }
